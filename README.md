@@ -38,3 +38,4 @@ tk.Tk()를 사용하여 Tkinter의 Tk 클래스를 이용하여 루트 윈도우
 Calculator 클래스의 객체 calculator를 생성하고 이를 루트 윈도우에 연결
 mainloop()를 호출하여 GUI 프로그램을 실행합니다. 이 메서드는 계산기 윈도우가 종료될 때까지 이벤트를 처리
 
+## adder, adder_up
